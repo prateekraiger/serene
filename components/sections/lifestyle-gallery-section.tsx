@@ -6,10 +6,10 @@ export function LifestyleGallerySection() {
   const { ref: sectionRef, isVisible } = useScrollReveal()
 
   const images = [
-    { src: '/images/lifestyle-gallery-1.png', caption: 'Morning Rituals' },
-    { src: '/images/lifestyle-gallery-2.png', caption: 'Quiet Moments' },
-    { src: '/images/lifestyle-gallery-3.png', caption: 'Workspace Serenity' },
-    { src: '/images/lifestyle-gallery-4.png', caption: 'Living with Nature' }
+    { src: '/images/lifestyle-premium.png', caption: 'Morning Renewal Ritual' },
+    { src: '/images/hero-premium.png', caption: 'The Science of Serenity' },
+    { src: '/images/product-serum-premium.png', caption: 'Nurtured by Nature' },
+    { src: '/images/lifestyle-gallery-4.png', caption: 'Serene Sanctuary' }
   ]
 
   return (

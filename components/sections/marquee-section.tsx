@@ -9,19 +9,19 @@ const newArrivals = [
     id: 1,
     name: "Serum Vitale",
     price: 189,
-    image: "/images/product-skincare-duo.jpg",
+    image: "/images/product-serum-glass-premium.png",
   },
   {
     id: 2,
-    name: "Harmony Chair",
+    name: "Derma Refresh",
     price: 749,
-    image: "/images/product-armchair.jpg",
+    image: "/images/product-cleanser-premium.png",
   },
   {
     id: 3,
     name: "Botanica Set",
     price: 299,
-    image: "/images/product-gift-set.jpg",
+    image: "/images/product-serum-premium.png",
   },
 ];
 
