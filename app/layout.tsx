@@ -18,9 +18,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Serene — Modern Living Store',
-  description: 'Discover handpicked products made just for you. A curated space for calm, design, and everyday elegance.',
-  generator: 'v0.app',
+  title: 'Serene — Luxury Skincare & Botanicals',
+  description: 'Discover premium, clean skincare crafted with natural ingredients. A curated collection for radiant skin and everyday elegance.',
   icons: {
     icon: [
       {
