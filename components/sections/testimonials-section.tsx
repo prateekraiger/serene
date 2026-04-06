@@ -7,23 +7,23 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 const testimonials = [
   {
     id: 1,
-    quote: "Serene transformed our living room into a sanctuary. Every piece feels intentional and brings genuine calm to our daily routine.",
+    quote: "Serene transformed my daily ritual into a moment of pure calm. The textures are exquisite, and my skin has never looked more radiant.",
     author: "Marie Laurent",
-    role: "Interior Designer",
+    role: "Luxe Beauty Editor",
     location: "Paris, France",
   },
   {
     id: 2,
-    quote: "The attention to detail is remarkable. You can feel the quality and the thought that goes into each product's design.",
-    author: "James Chen",
-    role: "Architect",
+    quote: "As a specialist in botanical formulations, I am deeply impressed by the purity of these ingredients. It is clinical efficacy meets true luxury.",
+    author: "Dr. James Chen",
+    role: "Dermatologist",
     location: "Vancouver, Canada",
   },
   {
     id: 3,
-    quote: "Finally, a brand that understands that less truly can be more. My home has never felt more peaceful.",
+    quote: "Finally, a brand that understands that skincare is self-care. The Serum Vitale is a masterpiece of modern botanical science.",
     author: "Sofia Andersson",
-    role: "Photographer",
+    role: "Lifestyle Photographer",
     location: "Stockholm, Sweden",
   },
 ];

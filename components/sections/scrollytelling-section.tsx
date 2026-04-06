@@ -24,8 +24,8 @@ export function ProductDetailSection() {
           >
             <div className="aspect-square relative overflow-hidden bg-[#F5F5F5]">
               <Image
-                src="/images/product-serum-premium.png"
-                alt="DermaVerde Serum"
+                src="/images/scrollytelling-hero.png"
+                alt="Flagship Serene Serum in premium frosted glass"
                 fill
                 className="w-full h-full object-cover"
               />
@@ -93,9 +93,9 @@ export function ProductDetailSection() {
           
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
             {[
-              { name: "PureGlow Lotion", price: 499, image: "/images/product-serum-set.jpg" },
-              { name: "Beauty Set", price: 399, image: "/images/product-gift-set.jpg" },
-              { name: "Hydra Mist", price: 189, image: "/images/product-skincare-duo.jpg" },
+              { name: "PureGlow Lotion", price: 49, image: "/images/product-moisturizer.png" },
+              { name: "Radiance Serum", price: 65, image: "/images/product-serum-single.png" },
+              { name: "Gentle Cleanser", price: 38, image: "/images/product-cleanser.png" },
             ].map((product, index) => (
               <Link
                 key={product.name}

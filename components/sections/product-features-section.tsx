@@ -11,17 +11,17 @@ export function ProductFeaturesSection() {
     {
       title: 'Natural Ingredients',
       description: 'Every product is crafted with carefully sourced botanical extracts and organic compounds. We believe in the power of nature to nourish and restore.',
-      image: '/images/natural-ingredients.png'
+      image: '/images/editorial-hero.png'
     },
     {
       title: 'Sustainable Crafted',
       description: 'From recyclable packaging to carbon-neutral shipping, sustainability is woven into every decision we make. Beauty that respects our planet.',
-      image: '/images/sustainable-crafted.png'
+      image: '/images/sustainable-crafted-new.png'
     },
     {
       title: 'Dermatologist Tested',
       description: 'All formulations undergo rigorous testing to ensure they are gentle, effective, and suitable for even the most sensitive skin types.',
-      image: '/images/dermato.png'
+      image: '/images/dermatologist-tested.png'
     }
   ]
 

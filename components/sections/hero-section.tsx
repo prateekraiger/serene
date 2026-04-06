@@ -48,7 +48,7 @@ export function HeroSection() {
   return (
     <section className="relative bg-black -mt-20 overflow-hidden">
       <div 
-        className="w-full bg-amber-500"
+        className="w-full"
         style={{
           paddingLeft: `${horizontalPadding}px`,
           paddingRight: `${horizontalPadding}px`,
@@ -65,7 +65,7 @@ export function HeroSection() {
           }}
         >
           <Image
-            src="/images/hero-premium.png"
+            src="/images/hero-serene-new.png"
             alt="Serene Skincare"
             fill
             priority

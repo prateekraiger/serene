@@ -6,10 +6,10 @@ export function LifestyleGallerySection() {
   const { ref: sectionRef, isVisible } = useScrollReveal()
 
   const images = [
-    { src: '/images/lifestyle-premium.png', caption: 'Morning Renewal Ritual' },
-    { src: '/images/hero-premium.png', caption: 'The Science of Serenity' },
-    { src: '/images/product-serum-premium.png', caption: 'Nurtured by Nature' },
-    { src: '/images/lifestyle-gallery-4.png', caption: 'Serene Sanctuary' }
+    { src: '/images/lifestyle-hero.png', caption: 'Morning Renewal Ritual' },
+    { src: '/images/scrollytelling-hero.png', caption: 'The Science of Serenity' },
+    { src: '/images/product-serum-glass.png', caption: 'Nurtured by Nature' },
+    { src: '/images/dermatologist-tested.png', caption: 'Serene Sanctuary' }
   ]
 
   return (
@@ -44,7 +44,7 @@ export function LifestyleGallerySection() {
         <div className="flex flex-col lg:flex-row gap-6">
           {/* Left Content Block */}
           <div 
-            className={`lg:w-1/3 bg-[#1A1A1A] text-white p-12 flex flex-col justify-center transition-all duration-1000 bg-amber-500 ${
+            className={`lg:w-1/3 bg-[#1A1A1A] text-white p-12 flex flex-col justify-center transition-all duration-1000 ${
               isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'
             }`}
           >
