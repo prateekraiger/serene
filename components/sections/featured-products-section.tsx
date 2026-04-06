@@ -215,7 +215,7 @@ export function FeaturedProductsSection() {
                     {product.name}
                   </h3>
                   <p className="text-[#737373] text-sm font-body">
-                    USD ${product.price}
+                    INR ₹{product.price * 83}
                   </p>
                 </Link>
               ))}
