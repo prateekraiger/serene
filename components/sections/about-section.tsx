@@ -39,7 +39,7 @@ export function AboutSection() {
           >
             <div className="aspect-[4/3] relative overflow-hidden">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ada52280-cbed-49de-9ba4-0a74b4469d02-aYlsFZQvKIhiEMCXNgnNUNhJYvUmPd.png"
+                src="/images/lifestyle-premium.png"
                 alt="Artisan craftsmanship"
                 fill
                 className="object-cover"

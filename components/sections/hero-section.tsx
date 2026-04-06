@@ -64,12 +64,11 @@ export function HeroSection() {
             borderRadius: mounted ? `${borderRadius}px` : "0px",
           }}
         >
-          <video
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fe2bd907-240d-4240-a460-12464b027146_1-P8x2GoydHaS07jpWce2k4icyBqGd1a.mp4"
-            autoPlay
-            loop
-            muted
-            playsInline
+          <Image
+            src="/images/hero-premium.png"
+            alt="Serene Skincare"
+            fill
+            priority
             className={`absolute inset-0 w-full h-full object-cover transition-all duration-1000 ${
               isVisible ? "scale-100 opacity-100" : "scale-105 opacity-0"
             }`}

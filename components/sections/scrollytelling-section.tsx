@@ -23,12 +23,10 @@ export function ProductDetailSection() {
             }`}
           >
             <div className="aspect-square relative overflow-hidden bg-[#F5F5F5]">
-              <video
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fe2bd907-240d-4240-a460-12464b027146_1-P8x2GoydHaS07jpWce2k4icyBqGd1a.mp4"
-                autoPlay
-                loop
-                muted
-                playsInline
+              <Image
+                src="/images/product-serum-premium.png"
+                alt="DermaVerde Serum"
+                fill
                 className="w-full h-full object-cover"
               />
             </div>

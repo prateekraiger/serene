@@ -154,7 +154,7 @@ export function FeaturedProductsSection() {
           }`}
         >
           <h2 className="font-display text-4xl sm:text-5xl lg:text-6xl text-[#1A1A1A] mb-4">
-            Explore Lumera Shop
+            Explore Serene Shop
           </h2>
           <p className="text-[#737373] text-base font-body">
             Discover our products made just for you.

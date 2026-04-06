@@ -22,7 +22,7 @@ export function LifestyleGallerySection() {
               isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
             }`}
           >
-            The Lumera Lifestyle
+            The Serene Lifestyle
           </p>
           <h2 
             className={`font-display text-4xl md:text-5xl lg:text-6xl mb-6 transition-all duration-1000 delay-100 ${
@@ -94,9 +94,9 @@ export function LifestyleGallerySection() {
             isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
           }`}
         >
-          <p className="text-[#737373] mb-6">Share your Lumera moments with us</p>
+          <p className="text-[#737373] mb-6">Share your Serene moments with us</p>
           <button className="border border-black px-8 py-3 rounded-full hover:bg-black hover:text-white transition-all duration-300">
-            #LumeraLifestyle
+            #SereneLifestyle
           </button>
         </div>
       </div>

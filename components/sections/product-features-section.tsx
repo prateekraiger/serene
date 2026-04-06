@@ -11,12 +11,12 @@ export function ProductFeaturesSection() {
     {
       title: 'Natural Ingredients',
       description: 'Every product is crafted with carefully sourced botanical extracts and organic compounds. We believe in the power of nature to nourish and restore.',
-      image: '/images/natural-20ingredients.png'
+      image: '/images/natural-ingredients.png'
     },
     {
       title: 'Sustainable Crafted',
       description: 'From recyclable packaging to carbon-neutral shipping, sustainability is woven into every decision we make. Beauty that respects our planet.',
-      image: '/images/sustainable-20crafted.png'
+      image: '/images/sustainable-crafted.png'
     },
     {
       title: 'Dermatologist Tested',

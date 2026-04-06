@@ -7,7 +7,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 const testimonials = [
   {
     id: 1,
-    quote: "Lumera transformed our living room into a sanctuary. Every piece feels intentional and brings genuine calm to our daily routine.",
+    quote: "Serene transformed our living room into a sanctuary. Every piece feels intentional and brings genuine calm to our daily routine.",
     author: "Marie Laurent",
     role: "Interior Designer",
     location: "Paris, France",
